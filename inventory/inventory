@@ -1,0 +1,6 @@
+---
+[kvm]
+kvm_hosts
+
+[kvm_hosts]
+kvm_host1 ansible_host=1.1.9.9 ansible_port=22 ansible_user=xxxx ansible_ssh_pass=xxxx ansible_sudo_pass=xxxx
